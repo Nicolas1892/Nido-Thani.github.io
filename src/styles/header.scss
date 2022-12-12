@@ -1,0 +1,33 @@
+header{
+  display: flex;
+  background: rebeccapurple;
+  justify-content: space-between;
+}
+
+
+.navbar {
+  display: flex;
+  width: 100%;
+  .navbar__container {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    .navbar__item {
+      padding: 16px 16px;
+      cursor: pointer;
+
+      a {
+        color: white;
+        font-family: Helvetica;
+        font-weight: 500;
+        text-decoration: none;
+      }
+
+    }
+  }
+
+}
+
+header .logo img {
+  max-width: 120px;
+}

@@ -1,0 +1,21 @@
+/*
+**
+** Estilos Generales
+**
+**/
+
+
+/** Encabezado **/
+@use 'styles/header.scss';
+
+/** Inicio **/
+@use 'styles/inicio.scss';
+
+/** Servicios **/
+@use 'styles/servicios.scss';
+
+/** Servicios **/
+@use 'styles/noticias.scss';
+
+/** Footer **/
+@use 'styles/footer.scss';
