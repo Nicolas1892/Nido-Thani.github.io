@@ -1,12 +1,11 @@
-.noticias{
-    display: flex;
-    display: flex;
-    flex-direction: column;
-    flex-basis: 100%;
-    flex: 1;
+.noticias {
+    max-width: 50%;
 
-    &__item{
-        display: flex;
-        
+    &__item {
+        height: 250px;
     }
+}
+
+.swiper {
+    height: 500px;
 }

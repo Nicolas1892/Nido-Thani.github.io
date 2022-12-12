@@ -19,3 +19,7 @@
 
 /** Footer **/
 @use 'styles/footer.scss';
+
+.ReactModal__Overlay{
+    z-index: 2;
+}

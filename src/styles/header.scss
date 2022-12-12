@@ -1,6 +1,6 @@
 header{
   display: flex;
-  background: rebeccapurple;
+  background: #34a0a4;
   justify-content: space-between;
 }
 
@@ -8,13 +8,15 @@ header{
 .navbar {
   display: flex;
   width: 100%;
-  .navbar__container {
+  margin-left: 10px;
+    .navbar__container {
     list-style: none;
     display: flex;
     justify-content: flex-end;
     .navbar__item {
       padding: 16px 16px;
       cursor: pointer;
+      
 
       a {
         color: white;
@@ -29,5 +31,6 @@ header{
 }
 
 header .logo img {
+  margin-left: 10px;
   max-width: 120px;
 }

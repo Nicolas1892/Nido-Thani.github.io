@@ -1,10 +1,14 @@
-.servicios{
+.row {
     display: flex;
+}
 
-    &__item{
-        display: flex;
-        flex-direction: column;
-        flex-basis: 100%;
-        flex: 1;
+.column {
+    flex: 50%;
+}
+
+.servicios{
+    img{
+        max-width: 200px;
+        min-height: 200px;
     }
 }

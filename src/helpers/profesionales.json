@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Nutria Nutricionista",
+        "image": "imagenes/nutri.png"
+    },
+    {
+        "id": 2,
+        "name": "Panda Fisioterapeuta",
+        "image": "imagenes/Panda_TENS.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gato Psicolog@",
+        "image": "imagenes/Gato_Psicologo.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Koala Trabajador@ Social",
+        "image": "imagenes/kolala_social.png"
+    }
+
+]
